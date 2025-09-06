@@ -1,5 +1,7 @@
 package main
 
-import "github.com/kings/ctfmini/cmd"
+import "github.com/K1Dev-Core/ctfmini-go/cmd"
 
-func main() { cmd.Execute() }
+func main() {
+    cmd.Execute()
+}
